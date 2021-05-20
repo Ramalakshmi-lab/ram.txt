@@ -1,0 +1,6 @@
+a='ben'
+ b='gwen'
+print(a,b)
+
+Output:
+SyntaxError:unexpected indent
