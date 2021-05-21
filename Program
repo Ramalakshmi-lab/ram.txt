@@ -1,6 +1,15 @@
 a=int(input('enter value')
 b=int(input('enter value')
 c=int(Avg=sum/input('enter value')
-Sum=a+b+c/2
+Sum=a+b+c
+Avg=a+b+c/2
 Print(Sum)
 Print(Avg)
+
+
+expected output:
+enter value 3
+enter value 2
+enter value 1
+sum 6
+Avg 2.00
