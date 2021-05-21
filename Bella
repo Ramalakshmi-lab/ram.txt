@@ -1,0 +1,8 @@
+a=18
+If a<27:
+  Printf('a is less than 27')
+  Printf('Hi..')
+
+Output
+a is less than 27
+Hi..'''
