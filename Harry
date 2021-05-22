@@ -1,0 +1,10 @@
+name=raw_input("Enter name")
+age=int(raw_input("Enter age"))
+If age<18:
+   Print("Hello,name")
+   Print("not eligible for voting due to",age)
+Output:
+Enter name rambo
+Enter age 13
+Hello rambo
+not eligible for voting due to 13
