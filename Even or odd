@@ -1,0 +1,8 @@
+Num=int(raw_input("enter num"))
+If Num%2==0: 
+  Print('even')
+else:
+  Print('odd')
+ #output
+enter num 13
+Odd
